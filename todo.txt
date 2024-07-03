@@ -1,0 +1,5 @@
+- script voz a input
+
+- prompt texto -> respuesta
+
+- respuesta a voz
